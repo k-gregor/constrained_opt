@@ -1,6 +1,7 @@
 *.pdf
 __pychace__
 .idea
+.idea/*
 #LaTeX files
 *.aux
 *.bbl

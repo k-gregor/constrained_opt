@@ -1,0 +1,2 @@
+class NoManagedForestError(Exception):
+    pass
